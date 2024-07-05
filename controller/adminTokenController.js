@@ -1,0 +1,1 @@
+const {adminToken} = require('../model/adminTokenModel')
